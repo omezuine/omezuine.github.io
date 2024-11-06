@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omezuine.github.io/OEe/sitemap_index.txt
+Sitemap: https://omezuine.github.io/bNp/sitemap_index.txt
+Sitemap: https://omezuine.github.io/tNS/sitemap_index.txt
+Sitemap: https://omezuine.github.io/uIt/sitemap_index.txt
